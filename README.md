@@ -8,6 +8,7 @@ This insurance data analytics project aims to develop data-driven dashboards for
 3. Enhance Branch Performance – Assess account executive contributions and revenue trends. 
 4. Optimize Claims & Risk Management – Monitor claim status and financial impact. 
 5. Support Strategic Decisions – Enable data-driven strategies for business expansion. 
+
 This concise yet impactful structure ensures clarity for all stakeholders.
 
 
